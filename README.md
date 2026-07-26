@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdarshKaushik05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
