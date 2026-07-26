@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdarshKaushik05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
+| [1572-matrix-diagonal-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdarshKaushik05/LeetCode/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
