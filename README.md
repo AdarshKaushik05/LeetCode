@@ -96,8 +96,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
 | ------- |
 | [0135-candy](https://github.com/AdarshKaushik05/LeetCode/tree/master/0135-candy) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+## String
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
