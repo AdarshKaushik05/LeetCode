@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/AdarshKaushik05/LeetCode/tree/master/0135-candy) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/AdarshKaushik05/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/AdarshKaushik05/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
