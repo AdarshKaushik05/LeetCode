@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AdarshKaushik05/LeetCode/tree/master/0066-plus-one) |
+| [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
 |  |
 | ------- |
@@ -102,8 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/AdarshKaushik05/LeetCode/tree/master/0135-candy) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
