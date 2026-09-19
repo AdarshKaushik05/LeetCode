@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
 | [1572-matrix-diagonal-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdarshKaushik05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0283-move-zeroes) |
 ## Stack
 |  |
 | ------- |
