@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
 | [1572-matrix-diagonal-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/AdarshKaushik05/LeetCode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AdarshKaushik05/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
 | ------- |
@@ -148,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
