@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdarshKaushik05/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/AdarshKaushik05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AdarshKaushik05/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
