@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AdarshKaushik05/LeetCode/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
