@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AdarshKaushik05/LeetCode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AdarshKaushik05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AdarshKaushik05/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Interactive
