@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/AdarshKaushik05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
 | [1572-matrix-diagonal-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdarshKaushik05/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
