@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AdarshKaushik05/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
 ## Bit Manipulation
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/AdarshKaushik05/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/AdarshKaushik05/LeetCode/tree/master/0645-set-mismatch) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Greedy
 |  |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdarshKaushik05/LeetCode/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
