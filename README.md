@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AdarshKaushik05/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AdarshKaushik05/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AdarshKaushik05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AdarshKaushik05/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AdarshKaushik05/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AdarshKaushik05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AdarshKaushik05/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0268-missing-number) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AdarshKaushik05/LeetCode/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AdarshKaushik05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
