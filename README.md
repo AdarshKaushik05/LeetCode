@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/AdarshKaushik05/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/AdarshKaushik05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AdarshKaushik05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AdarshKaushik05/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AdarshKaushik05/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/0189-rotate-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdarshKaushik05/LeetCode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/AdarshKaushik05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
