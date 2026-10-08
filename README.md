@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AdarshKaushik05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1021-remove-outermost-parentheses](https://github.com/AdarshKaushik05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AdarshKaushik05/LeetCode/tree/master/0125-valid-palindrome) |
+| [1021-remove-outermost-parentheses](https://github.com/AdarshKaushik05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AdarshKaushik05/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/AdarshKaushik05/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1903-largest-odd-number-in-string](https://github.com/AdarshKaushik05/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdarshKaushik05/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/AdarshKaushik05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
