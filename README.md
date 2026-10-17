@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AdarshKaushik05/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/AdarshKaushik05/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AdarshKaushik05/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2742-painting-the-walls](https://github.com/AdarshKaushik05/LeetCode/tree/master/2742-painting-the-walls) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AdarshKaushik05/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AdarshKaushik05/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AdarshKaushik05/LeetCode/tree/master/0509-fibonacci-number) |
+| [2742-painting-the-walls](https://github.com/AdarshKaushik05/LeetCode/tree/master/2742-painting-the-walls) |
 ## Two Pointers
 |  |
 | ------- |
